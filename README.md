@@ -16,5 +16,16 @@ This project implements a defect classification system for hazelnut images from 
   - Prompt ensembling with multiple variations
   - Temperature scaling for prediction calibration
   - Class-balanced weighting for imbalanced data
+    
+## Learning Outcomes
+Practical experience with CLIP and zero-shot learning
+
+Understanding of prompt engineering importance
+
+Techniques for handling class imbalance in vision tasks
+
+Experience with industrial defect classification scenarios
+
+text
 
 
